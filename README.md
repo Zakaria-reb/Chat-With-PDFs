@@ -1,6 +1,5 @@
 # RAG PDF
-[https://github.com/Zakaria-reb/Chat-With-PDFs/blob/39e505fc83c2b76d82a16bd7cc68a4823438d5cd/demo_vid.mp4]
-
+https://github.com/user-atta-chments/assets/81561542-faa9-4123-8fc2-1d8f004a4d66
 Pipeline RAG pour interroger tes PDF (texte + images) avec les modèles NVIDIA de ton notebook `pipeline_rag_pdf_QA-v2`.
 
 - **Glisser-déposer** de plusieurs PDF (n'importe où sur la page)
