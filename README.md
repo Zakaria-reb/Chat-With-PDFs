@@ -1,6 +1,7 @@
-# RAG PDF Dashboard
+# RAG PDF
+[https://github.com/Zakaria-reb/Chat-With-PDFs/blob/39e505fc83c2b76d82a16bd7cc68a4823438d5cd/demo_vid.mp4]
 
-Dashboard web pour interroger tes PDF (texte + images) avec les modèles NVIDIA de ton notebook `pipeline_rag_pdf_QA-v2`.
+Pipeline RAG pour interroger tes PDF (texte + images) avec les modèles NVIDIA de ton notebook `pipeline_rag_pdf_QA-v2`.
 
 - **Glisser-déposer** de plusieurs PDF (n'importe où sur la page)
 - **Ajouter / remplacer / supprimer** un document (bouton ↻ sur chaque carte ; un fichier de même nom déclenche une confirmation « Remplacer »)
