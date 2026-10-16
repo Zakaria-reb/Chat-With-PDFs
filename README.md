@@ -1,5 +1,6 @@
 # RAG PDF
-[![Démo du projet RAG PDF](https://github.com/user-attachments/assets/17e8f2e9-f34c-43f4-ae3c-cc1845876411)](https://github.com/user-attachments/assets/34052984-f534-4580-a059-7c3b5ff4a482)
+[![Architecture du projet RAG PDF](https://github.com/user-attachments/assets/17e8f2e9-f34c-43f4-ae3c-cc1845876411)](https://github.com/user-attachments/assets/34052984-f534-4580-a059-7c3b5ff4a482)
+
 
 Pipeline RAG pour interroger tes PDF (texte + images) avec les modèles NVIDIA de ton notebook `pipeline_rag_pdf_QA-v2`.
 
