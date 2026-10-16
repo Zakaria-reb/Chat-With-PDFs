@@ -1,5 +1,5 @@
 # RAG PDF
-[https://github.com/user-attachments/assets/34052984-f534-4580-a059-7c3b5ff4a482]
+[![Démo du projet](<img width="791" height="442" alt="Image" src="https://github.com/user-attachments/assets/17e8f2e9-f34c-43f4-ae3c-cc1845876411" />)](https://github.com/user-attachments/assets/34052984-f534-4580-a059-7c3b5ff4a482)
 Pipeline RAG pour interroger tes PDF (texte + images) avec les modèles NVIDIA de ton notebook `pipeline_rag_pdf_QA-v2`.
 
 - **Glisser-déposer** de plusieurs PDF (n'importe où sur la page)
